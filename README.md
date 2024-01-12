@@ -1,4 +1,4 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=✨%20PKM-MASTER%20GitHub%20✨&fontSize=50&fontAlignY=30&fontAlign=60&font=Alkatra&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=✨%20PKM-MASTER%20GitHub%20✨&fontSize=50&fontAlignY=30&fontAlign=60&fontColor=000000)
 
