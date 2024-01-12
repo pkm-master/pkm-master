@@ -4,6 +4,11 @@
 
 
 
+## Introduction
+
+<center> Still Learning 📚 </center>
+<center> Want to be Developer 💻 </center>
+
 
 
 ## Project
@@ -42,11 +47,11 @@ will be updated
 <details>
 <summary> 🎀 This year Goal 🎀 </summary>
 
-- 일주일에 세 번 이상은 운동하기 👟
-- 단 거 줄이기 🥞
-- 크게 아프지 않고 한 해 마무리 하기! 🎇
-- 자격증 따기(정보처리기사/웹디자인기능사/SQLD) 🏆
-- 취업하기 🌠
+- Exercise 👟
+- Low Sugar 🥞
+- Healthy Life 🎇
+- Pass the Test 🏆
+- Get Job 🌠
 
 </details>
 
