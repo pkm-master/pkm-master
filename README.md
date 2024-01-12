@@ -6,9 +6,9 @@
 
 ## Introduction
 
-<center> Still Learning 📚 </center>
+Still Learning 📚 
 
-<center> Want to be Developer 💻 </center>
+Want to be Developer 💻
 
 
 
